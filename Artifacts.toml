@@ -1,0 +1,160 @@
+[[CHICKEN]]
+arch = "aarch64"
+git-tree-sha1 = "38c9341ec3c24d3fa659c6f96e267618b1c24fa3"
+os = "macos"
+
+    [[CHICKEN.download]]
+    sha256 = "c704deb4d2115a1ed2b2b281dae4c07c98c2d62aa10aa490a0af842646f7a5d1"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.aarch64-apple-darwin.tar.gz"
+[[CHICKEN]]
+arch = "aarch64"
+git-tree-sha1 = "46d5f2267b35532687ecae6dd4cc9cdf33bd3faf"
+libc = "glibc"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "840dad2e7581cbc240fa2126dfd5ab434715041bd162fb6caec6c0d5aa007e85"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.aarch64-linux-gnu.tar.gz"
+[[CHICKEN]]
+arch = "aarch64"
+git-tree-sha1 = "3b8dc178b7874a85cf4685a8802ab4cc04131d9c"
+libc = "musl"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "3f40ffb17a791f90d2ffaccfb9d4f35b0f9a8c3156bd5dbe3d90e498561f0415"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.aarch64-linux-musl.tar.gz"
+[[CHICKEN]]
+arch = "aarch64"
+git-tree-sha1 = "2fb1e3f5af482910a63c13433a035949d493054b"
+os = "freebsd"
+
+    [[CHICKEN.download]]
+    sha256 = "9102eaaea3d2a33a1df041d4d8cedce2d71d13908ba2a1975e138edcec3c8acb"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.aarch64-unknown-freebsd.tar.gz"
+[[CHICKEN]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "118db22db1cab50687033bea4c823c5876495b8e"
+libc = "glibc"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "925c2cc8d5ba0cda092a7203e7df0c5766f2688de84834d5dd0052dc29275a34"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.armv6l-linux-gnueabihf.tar.gz"
+[[CHICKEN]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "402fdfc26f1e623cbfc5c1b7f16fbf87349de890"
+libc = "musl"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "30bb8b8e4c14133370f3f604b3212105fc720a71c682fb6f3d56a5ba0ae1f133"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.armv6l-linux-musleabihf.tar.gz"
+[[CHICKEN]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9024acf5ac47a5fa29447e3e5748698b9b6669f8"
+libc = "glibc"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "d53e42ddc80985d6d7d945f65b996eb4deeba1bd66ac043e8e93b88dc1973a6d"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.armv7l-linux-gnueabihf.tar.gz"
+[[CHICKEN]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a0eb9d2680c2e41a997be4826bf67638a1123a2c"
+libc = "musl"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "015ca58d20d3f3d9a186a2f958d3b30041de5ab83f9d9dedf343844a274c8e39"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.armv7l-linux-musleabihf.tar.gz"
+[[CHICKEN]]
+arch = "i686"
+git-tree-sha1 = "c20caa35eda7db233bc25cb65181b46308b8b95a"
+libc = "glibc"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "e77cd098a6e782c61298115165b51585618230e0af73b88d4d35004d736d9083"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.i686-linux-gnu.tar.gz"
+[[CHICKEN]]
+arch = "i686"
+git-tree-sha1 = "787ccf889e19f8045ae0ddfab20aba39d8ba21dc"
+libc = "musl"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "ca316e0227b845f8dde21862fc395a048192d77747e50ad00f6acd8131662e92"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.i686-linux-musl.tar.gz"
+[[CHICKEN]]
+arch = "i686"
+git-tree-sha1 = "e80a1e507133d783f1079508ef3381512a84004f"
+os = "windows"
+
+    [[CHICKEN.download]]
+    sha256 = "40d3d6bd2b59ba21a555dd4162d0f245227095e47de1b2f24302adcceb22641a"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.i686-w64-mingw32.tar.gz"
+[[CHICKEN]]
+arch = "powerpc64le"
+git-tree-sha1 = "3329345b6e82dd2fc629c004639af97fbdf0bd3f"
+libc = "glibc"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "fc7c762a79bd0d1e22cfa128114978f69246177031172aa30165d5c5016b9a60"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.powerpc64le-linux-gnu.tar.gz"
+[[CHICKEN]]
+arch = "riscv64"
+git-tree-sha1 = "6242d8b99847c9b8536fee97527214995b16e95d"
+libc = "glibc"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "4212b71dcb0ae0d82e8cf03642983cb83e1a3a9aab5470943a9f6a5e3622c056"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.riscv64-linux-gnu.tar.gz"
+[[CHICKEN]]
+arch = "x86_64"
+git-tree-sha1 = "ec52aeaace29ae2d7af5e57ff1155ab0d6bc8979"
+os = "macos"
+
+    [[CHICKEN.download]]
+    sha256 = "31216b27237eb9164ceb111360b36f6db7fea92070858156faa93a7a959362bc"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.x86_64-apple-darwin.tar.gz"
+[[CHICKEN]]
+arch = "x86_64"
+git-tree-sha1 = "8af9ebab542101e52debe2fa22f082c6e8c900d9"
+libc = "glibc"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "d35151797759ecbeef3577072d1a6bfe01e5be55b93f3f0904d710ca2f6e576d"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.x86_64-linux-gnu.tar.gz"
+[[CHICKEN]]
+arch = "x86_64"
+git-tree-sha1 = "40880e30a56dba16b54f48acffe414796afd771a"
+libc = "musl"
+os = "linux"
+
+    [[CHICKEN.download]]
+    sha256 = "a5ef98f24b492bb23567874249d81819d62f153b25db60cc511a8b24895132ff"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.x86_64-linux-musl.tar.gz"
+[[CHICKEN]]
+arch = "x86_64"
+git-tree-sha1 = "90ba932a467b2e996bced456578898bca39d8929"
+os = "freebsd"
+
+    [[CHICKEN.download]]
+    sha256 = "34fda7d4e9983b4ed07e03a0d4400e69ec11610ebe05df6c38e298e563e0e34b"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.x86_64-unknown-freebsd.tar.gz"
+[[CHICKEN]]
+arch = "x86_64"
+git-tree-sha1 = "eb03a1def5a6cd7b6ddd1ac98a1510edbee2f689"
+os = "windows"
+
+    [[CHICKEN.download]]
+    sha256 = "87cd513464af0599bc7c615ffd7ab33aec008705917f9f222baa0781bb871bda"
+    url = "https://github.com/JuliaBinaryWrappers/CHICKEN_jll.jl/releases/download/CHICKEN-v5.4.0+0/CHICKEN.v5.4.0.x86_64-w64-mingw32.tar.gz"
