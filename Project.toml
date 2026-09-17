@@ -1,6 +1,6 @@
 name = "CHICKEN_jll"
 uuid = "ba656ed8-6435-5caa-83e6-1e677deaf2de"
-version = "5.4.0+0"
+version = "6.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
